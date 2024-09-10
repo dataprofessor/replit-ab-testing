@@ -1,6 +1,6 @@
 # 📦 AB Testing Demo
 
-This AB testing app allows testing statistical parameters for AB tests. The app is created by Matt Palmer and this recipe is originally available at https://github.com/streamlit/cookbook/tree/main/recipes/replit
+This AB testing app allows testing statistical parameters for AB tests. The app is created by [Matt Palmer](https://twitter.com/mattppal) from Replit and this recipe is originally available at https://github.com/streamlit/cookbook/tree/main/recipes/replit
 
 ## Demo App
 
